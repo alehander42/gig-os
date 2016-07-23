@@ -7,10 +7,10 @@
 
 void kernel_early(void)
 {
-	terminal_initialize();
+    terminal_initialize();
 }
 
 void kernel_main(void)
-{
-	printf("Hello, kernel World!\n");
+{   
+    printf("Hello, kernel\n");
 }
