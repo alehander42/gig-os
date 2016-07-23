@@ -7,6 +7,6 @@ a fork of [a basic wiki osdev kernel](http://wiki.osdev.org/Meaty_Skeleton), als
 # todo:
 
 - [ ] a keyboard driver
-- [ ] a basic filesystem-in-ram driver
-- [ ] a basic monotasking shell
+- [ ] a memory manager
+- [ ] a filesystem-in-ram driver
 - [ ] several simple shell programs(probably realized as kernel files for now)
