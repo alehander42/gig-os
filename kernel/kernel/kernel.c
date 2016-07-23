@@ -12,5 +12,7 @@ void kernel_early(void)
 
 void kernel_main(void)
 {   
-    printf("Hello, kernel\n");
+    printf("gig os 0.0.1\n");
+    printf("\n");
+    printf("hello\n");
 }
